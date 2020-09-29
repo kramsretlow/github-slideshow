@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is slide number 2
+"A rolling stone gathers no moss"
 Use the left arrow to go back!
